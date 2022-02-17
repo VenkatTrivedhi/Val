@@ -1,6 +1,7 @@
 setup:
-  1. download the repository from github
-  1. pip install all the packages mentioned in requirement.txt through comand line
+  1.install python 3.9 and pip
+  2. download the repository from github
+  3. pip install all the packages mentioned in requirements.txt through comand line
      installation:
       a.install package one by one 
         command - python -m pip install name_of_package
