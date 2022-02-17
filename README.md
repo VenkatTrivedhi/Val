@@ -10,7 +10,7 @@ setup:
      
      a.install package one by one 
      
-       command - python -m pip install name_of_package
+         command - python -m pip install name_of_package
         (or)
      
      a.Goto the directoty of the project
@@ -27,7 +27,7 @@ run-project:
 
 3.start your server with using below command
 
-command - python manage.py runserver
+          command - python manage.py runserver
 
 server will be started on 127.0.0.1:8000   
 
